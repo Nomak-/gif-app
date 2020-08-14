@@ -1,6 +1,7 @@
 # GIPHY - GIF EXPERT APP
 Permite listar imágenes y buscar mediante fetch data del API de GIPHY.
 
+![img](https://i.imgur.com/FuBrcE4.png)
 
 ### `npm start`
 
