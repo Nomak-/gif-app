@@ -1,0 +1,48 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  padding: 60px;
+  background-color: #171523;
+  color: #d4c0c0;
+}
+
+hr {
+  border: 1px solid #1f1f21;
+}
+
+input {
+  color: grey;
+  font-size: 2rem;
+  width: 100%;
+  background-color: #1f1f21;
+  border: 1px solid #36323d;
+  text-align: center;
+}
+
+.card-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.card {
+  align-content: center;
+  border: 1px solid #151517;
+  border-radius: 6px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  overflow: hidden;
+  background-color: #1f1f21;
+}
+
+.card p {
+  padding: 5px;
+  text-align: center;
+}
+
+.card img {
+  max-height: 175px;
+}
+
