@@ -4,7 +4,7 @@ Permite listar imágenes y buscar mediante fetch data del API de GIPHY.
 ![img](https://i.imgur.com/FuBrcE4.png)
 
 ### `demo online`
-Open [https://nomak-.github.io/gif-app/](https://nomak-.github.io/gif-app/) to view it in the browser.
+Open [https://mcasaccio.github.io/gif-app/](https://mcasaccio.github.io/gif-app/) to view it in the browser.
 
 
 ### `npm start`
